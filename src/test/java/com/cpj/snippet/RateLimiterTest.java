@@ -1,7 +1,8 @@
-package com.cpj.test;
+package com.cpj.snippet;
 
 import com.google.common.util.concurrent.RateLimiter;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
+
 import java.util.*;
 import java.text.SimpleDateFormat;
 
